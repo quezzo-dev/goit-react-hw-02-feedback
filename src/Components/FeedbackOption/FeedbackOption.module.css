@@ -1,0 +1,13 @@
+.button {
+  cursor: pointer;
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 16px;
+  background: turquoise;
+  color: #fff;
+  outline: none;
+}
+
+.button:not(:last-child) {
+  margin-right: 10px;
+}
